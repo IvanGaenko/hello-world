@@ -1,5 +1,2 @@
-# hello-world
-This is my first program
-
-var hello = Hello, world!;
-cnsole.log(hello);
+This is readme text.
+I use it to generate my commits.
